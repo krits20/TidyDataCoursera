@@ -46,6 +46,4 @@ PLEASE NOTE:: The Codebook.md gives a more detailed explanation of each variable
 
 Then we use the reshape2 package to melt and cast this dataset to give an aggregated dataset where each subject activity has an aggregated value for each of the 66 columns.
 
-This gives a final result of 6 rows and 67 columns. Each row represents an aggregation of all values for each Subject and Activity.
-
-
+This gives a final result of 180 rows and 67 columns. Each row represents an aggregation of all values for each Subject and Activity.
