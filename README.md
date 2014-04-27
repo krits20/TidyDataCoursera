@@ -3,7 +3,8 @@ TidyDataCoursera
 
 Getting and Cleaning a dataset | Coursera | Tidy Data 
 
-The program run_analysis.R reads in the data from the UCI HAR dataset and manipulates the data to present a human readable format of the data.
+The program run_analysis.R reads in the data from the UCI HAR dataset and manipulates the data to present a human readable format of the data. <b>Please follow the directory structure below:</b>
+<b>{R Home Directory}/Coursera/(Unzip your dataset file here)</b>
 
 The Dataset
 ===========
@@ -20,7 +21,7 @@ PLEASE NOTE:: For this program, the files in the folder (Inertial Signals) was n
 The Program
 ===========
 run_analysis.R is the main R program. It is to be executed by placing the UCI HAR dataset in the folder which is to follow the directory structure below:
-{R Home Directory}/Coursera/UCI HAR Dataset/(Unzip your dataset file here)
+{R Home Directory}/Coursera/(Unzip your dataset file here)
 
 Please do not alter the structure of the dataset zip file after unzipping it.
 
